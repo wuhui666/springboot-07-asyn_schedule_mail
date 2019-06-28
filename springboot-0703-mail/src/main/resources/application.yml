@@ -1,0 +1,9 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    password: zmsgnovchgdxjhjg
+    #开启qq邮箱所需的ssl加密
+    properties:
+      mail.smtp.ssl.enable: true
+    default-encoding: UTF-8
+    username: 1174762989@qq.com
